@@ -1,16 +1,47 @@
 ## Hi there 👋
+![Harshi Shah](https://github.com/Shahharshii/Shahharshii/blob/main/Harshi%20Shah.png)
 
-<!--
-**Harshi-Shah-CS/Harshi-Shah-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=7600F7FF&size=24&width=500&lines=👩‍💻Frontend-Developer;📊Data-Analyst;🔎Software-Tester)
 
-Here are some ideas to get you started:
+- 💬 Ask me about Frontend Development, Data Analyst, Software Testing.
+- 📫 How to reach me: shahharshi.2704@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Tech stack 
+### Programming Languages
+![My Skills](https://skillicons.dev/icons?i=html,css,js)
+
+### Framework, platforms and libraries
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwind)
+
+### IDE/Editors
+![My Skills](https://skillicons.dev/icons?i=vscode)
+
+### Version Control
+![My Skills](https://skillicons.dev/icons?i=git,github)
+
+### Hosting
+![My Skills](https://skillicons.dev/icons?i=vercel)
+
+### Database 
+![My Skills](https://skillicons.dev/icons?i=mongodb)
+
+### Github Analytics
+<p align="left">
+  <a href="https://github.com/Shahharshii">
+    <img height="180cm" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shahharshii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+     <img height="180cm" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shahharshii&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahharshii&theme=algolia" alt="Profile summary card"/>
+  
+</p>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shahharshii&theme=algolia" alt="Github Trophies"/>
+  
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shahharshii&theme=algolia" alt="GitHub Streak" /></a>
+</p>
