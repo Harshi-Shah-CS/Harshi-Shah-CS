@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Harshi Shah](https://github.com/Shahharshii/Shahharshii/blob/main/Harshi%20Shah.png)
+![Harshi Shah] (https://github.com/Harshi-Shah-CS/Harshi-Shah-CS/blob/main/Harshi%20Shah.png)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=7600F7FF&size=24&width=500&lines=👩‍💻Frontend-Developer;📊Data-Analyst;🔎Software-Tester)
 
